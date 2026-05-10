@@ -1,0 +1,21 @@
+# Fake secrets for testing
+
+username = "admin"
+
+password = "SuperSecret123"
+
+api_key = "abcdefghijklmnop123456"
+
+aws_key = "AKIAIOSFODNN7EXAMPLE"
+
+google_key = "AIzaSyA-ExampleFakeGoogleKey1234567"
+
+token = "Bearer abcdefghijklmnopqrstuvwxyz"
+
+jwt = "Jf;ihbfJbnwifhb49OJENRVIWB2NSXZJOnowfnw.abc123.signature"
+
+private_key = """
+-----BEGIN RSA PRIVATE KEY-----
+FAKEPRIVATEKEYDATA
+-----END RSA PRIVATE KEY-----
+"""
